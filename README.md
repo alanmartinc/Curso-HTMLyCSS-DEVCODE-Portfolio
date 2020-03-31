@@ -1,2 +1,2 @@
 # Curso-HTMLyCSS-DEVCODE-Portfolio
-HTML, CSS
+## Ejercicio realizado en DevCode
